@@ -28,7 +28,7 @@ module.exports = () => {
       //inject manifest is a way to set up and "inject" a service worker into the application
       new InjectManifest({
         swSrc: './src-sw.js',
-        swDest: 'src-sw.js'
+        swDest: '/src-sw.js'
       }),
       //webpack manifest creates a manifest json to add support for various devices!
       new WebpackPwaManifest({
