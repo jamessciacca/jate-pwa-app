@@ -10,7 +10,7 @@
 
 ## Description
 
-Canine Critique is a application for dogs and dog lovers alike, centered around roasting your lovable pups. Through Canine Critique users can view images of dogs and roast them. They are also able to upload their own dogs to join in on the fun and get roasted. The application is designed to be light-hearted by allowing users to reduce stress through viewing cute dogs and adding to the fun by roasting them.
+PWA that a user can install to there device and use offline! This app uses caching and service workers to save the functionality of the app using the browser!
 
 ## Installation
 
